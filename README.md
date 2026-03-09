@@ -1,8 +1,7 @@
-Hi, I'm Tejas A 👋
+**Hi, I'm Tejas A 👋**
 
 🎓 Computer Science Engineering Student
 🤖 Interested in Artificial Intelligence, Machine Learning, and Cybersecurity
-
 💻 Practicing Data Structures & Algorithms (LeetCode)
 
 🌱 Currently learning Deep Learning architectures and Cybersecurity frameworks
@@ -10,7 +9,7 @@ Hi, I'm Tejas A 👋
 
 **🛠️ Tech Stack**
 
-Programming
+**Programming**
 
 Python
 
@@ -43,7 +42,7 @@ GitHub
 VS Code
 
 
-📫 Connect With Me
+**📫 Connect With Me**
 
 Mail: tejasahoombal@gmail.com
 
