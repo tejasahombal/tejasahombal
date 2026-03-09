@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi, I'm Tejas A 👋
 
-<!--
-**tejasahombal/tejasahombal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student
+🤖 Interested in Artificial Intelligence, Machine Learning, and Cybersecurity
 
-Here are some ideas to get you started:
+💻 Practicing Data Structures & Algorithms (LeetCode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning Deep Learning architectures and Cybersecurity frameworks
+
+
+🛠️ Tech Stack
+
+Programming
+
+Python
+
+C
+
+Java
+
+HTML / CSS
+
+MySQL, MongoDB, PostgresSQL
+
+AI / ML
+
+TensorFlow
+
+PyTorch
+
+OpenCV
+
+Scikit-learn
+
+Tools
+
+Google Colab
+
+Git
+
+GitHub
+
+VS Code
+
+
+📫 Connect With Me
+
+Mail: tejasahoombal@gmail.com
+
+
+⭐ Always open to learning, collaborating, and building impactful projects.
