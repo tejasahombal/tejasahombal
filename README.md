@@ -44,7 +44,7 @@ VS Code
 
 **📫 Connect With Me**
 
-Mail: tejasahoombal@gmail.com
+Mail: tejasahombal@gmail.com
 
 
 ⭐ Always open to learning, collaborating, and building impactful projects.
