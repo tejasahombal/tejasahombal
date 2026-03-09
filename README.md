@@ -8,7 +8,7 @@ Hi, I'm Tejas A 👋
 🌱 Currently learning Deep Learning architectures and Cybersecurity frameworks
 
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Programming
 
