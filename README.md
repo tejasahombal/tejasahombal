@@ -1,4 +1,4 @@
-**Hi, I'm Tejas A 👋**
+**Hi, I'm Tejas A Hombal👋**
 
 🎓 Computer Science Engineering Student
 🤖 Interested in Artificial Intelligence, Machine Learning, and Cybersecurity
