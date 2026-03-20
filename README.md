@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas A Hombal</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=lines=Turning+ideas+into+practical+software;Continuously+learning+and+building+better+systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Turning+ideas+into+practical+software+solutions;Dedicated+to+learning+and+building+better+software" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ### 🛠️ Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,nodejs,react,js,docker,kafka,prometheus,grafana,linux,wireshark,git,github,pytorch,flask,androidstudio" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,nodejs,react,js,docker,kafka,prometheus,grafana,linux,git,github,ethereum,solidity,androidstudio" />
 </p>
 
 ---
