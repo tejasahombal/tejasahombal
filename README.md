@@ -12,7 +12,7 @@
 
 ### 🛠️ Languages and Tools:
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,nodejs,react,js,docker,kafka,prometheus,grafana,linux,git,github,ethereum,solidity,androidstudio" />
+<img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,nodejs,react,js,docker,kafka,prometheus,grafana,linux,git,github,solidity,androidstudio" />
 </p>
 
 ---
