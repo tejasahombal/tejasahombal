@@ -11,35 +11,15 @@
 
 **Programming**
 
-Python
-
-C
-
-Java
-
-HTML / CSS
-
-MySQL, MongoDB, PostgresSQL
+Python, Java, HTML / CSS, MySQL, MongoDB, PostgresSQL
 
 AI / ML
 
-TensorFlow
-
-PyTorch
-
-OpenCV
-
-Scikit-learn
+TensorFlow, PyTorch0, OpenCV, Scikit-learn
 
 Tools
 
-Google Colab
-
-Git
-
-GitHub
-
-VS Code
+Google Colab, Git, GitHub, VS Code
 
 
 **📫 Connect With Me**
