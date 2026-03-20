@@ -28,3 +28,5 @@ Mail: tejasahombal@gmail.com
 
 
 ⭐ Always open to learning, collaborating, and building impactful projects.
+
+![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=visitors&query=value&url=https://api.countapi.xyz/hit/tejasahombal)
