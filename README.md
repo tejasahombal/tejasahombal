@@ -11,6 +11,7 @@
 
 **Programming**
 
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,MySQL,mongodb,postgressql)](https://skillicons.dev)
 Python, Java, HTML / CSS, MySQL, MongoDB, PostgresSQL
 
 AI / ML
